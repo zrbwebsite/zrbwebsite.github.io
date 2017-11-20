@@ -1,0 +1,9 @@
+.bundle
+.DS_Store
+.jekyll-metadata
+.sass-cache
+_site
+
+assets/img/portfolio
+_portfolio
+pages/portfolio.html

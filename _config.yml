@@ -1,0 +1,28 @@
+# Site settings
+title: Zakład Remontowo-Budowlany Zbignie Kubaczyk
+email: zbigniew@kubaczyk.com.pl
+description: > # this means to ignore newlines until "baseurl:"
+  Rodzinna firma budowlana instniejąca nieprzerwanie od 1989 roku. 
+  Realizacja pod klucz budynków użyteczności publicznych i domów mieszkalnych, remonty, odrestaurowywanie zabytków. 
+  Wykonywanie remontów bieżących i kapitalnych budynków z instalacjami sanitarnymi i elektrycznymi włącznie. Roboty dociepleniowe i elewacyjne, remonty konstrukcji dachów oraz pokryć dachowych.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
+
+# User setting
+owner: Zbigniew Kubaczyk
+email: zbigniew@kubaczyk.com.pl
+address:
+  - line: Zamkowa 1/4
+  - line: 78-320 Połczyn-Zdrój
+firm:
+  - line: NIP 672-100-55-16
+  - line: REGON 003824670
+telephone: +48 502 379 600
+copyright: Zakład Remontowo-Budowlany Zbigniew Kubaczyk
+
+# API settings
+google_api_key: AIzaSyBOdMJ1OIvIjziiuBgjb0LKbOcJjFJMGHw
+
+# Build settings
+markdown: kramdown
+
