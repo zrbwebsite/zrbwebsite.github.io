@@ -22,7 +22,7 @@ copyright: Zakład Remontowo-Budowlany Zbigniew Kubaczyk
 
 # API settings
 google_api_key: AIzaSyBOdMJ1OIvIjziiuBgjb0LKbOcJjFJMGHw
-
+google_analytics: UA-110173938-1
 # Build settings
 markdown: kramdown
 
